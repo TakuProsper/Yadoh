@@ -2638,7 +2638,10 @@ section {
 }
 
 .footer .footer-content .footer-links {
-  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; /* Align content to the bottom */
+  height: 100%;
 }
 
 .footer .footer-content .footer-links ul {
