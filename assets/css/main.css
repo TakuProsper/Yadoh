@@ -1206,8 +1206,9 @@ section {
 
 .about .our-story h4 {
   text-transform: uppercase;
-  font-size: 18px;
+  font-size: 15px;
   color: #838893;
+  margin-top: 40px;
 }
 
 .about .our-story h3 {
